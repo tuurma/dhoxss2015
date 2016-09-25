@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letters from Robert (and Beryl) Graves to William Graves 10</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>dhoxss</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>ST JOHN'S COLLEGE LIBRARY COLLECTION OWNED LETTERS FROM ROBERT (1895-1985) AND BERYL
+               (1915- ) GRAVES TO WILLIAM GRAVES (1940- )</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sending">
+                    <persName ref="#GravesRobert">Robert Graves</persName>
+                    <settlement ref="#Canellun"><placeName>Canellun, Deya, Mallorca, Spain</placeName></settlement>
+                    <date when="1959-05-12">May 12</date>
+                </correspAction>
+                <correspAction type="receiving">
+                    <persName ref="#GravesWilliam">William Graves</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <encodingDesc>
+            <tagsDecl>
+                <rendition xml:id="red">red ink</rendition>
+                <rendition xml:id="handwritten">handwritten text</rendition>
+                <rendition xml:id="vertical">marginal text written vertically</rendition>
+                <rendition xml:id="interlinear">written above the line</rendition>
+            </tagsDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="WG.59.05.12.jpg"/>
+            <opener>
+                <placeName ref="#Canellun">Canellun, Deya, Mallorca, Spain</placeName>
+                <date when="1959-05-12">May 12</date>
+                <salute>Dear William,</salute>
+            </opener>
+            <p>I hope all is well in <placeName ref="#London">London</placeName><del>a</del> and that the Land-Rover is behaving itself. Our
+            new one is marvellous and so quiet and comfortable - I do hope you will like it. The
+            colour is not bad - very pale green, and the roof is white inside and the upholstery
+            grey. </p>
+            <p>I am sorry to have to tell you that <persName>Betty</persName> and <persName>Ricardo</persName> have given up the mine. Their
+            partner, whom they had known and trusted for ten years and who had a joint bank account
+            with them, went off with $30,000 which was all the money they had put into it. So that
+            was that. Any other ideas for the summer?</p>
+            <p>Postage has gone up to 5 pts to <persName ref="#England">England</persName> and 10 to <placeName ref="#USA">America</placeName>! it is now 5 pts ordinary mail
+               <placeName ref="#USA">USA</placeName> <add>10 airmail.</add>
+            </p>
+            <p>Somebody wants to make a film of the <title>White Goddess</title> - don't know how they can do
+               that<add>!</add>
+            </p>
+            <p>Can't think of any other news. Love to <persName>Mike</persName> and <persName>Sheila</persName> if you see them - I was sorry we
+            weren't able to get to the <placeName>Troubadour</placeName>.</p>
+            <closer>
+                <salute>Lots of Love,</salute>
+            </closer>
+            <note place="margin">
+                <p rendition="#red #handwritten">Landrover has a heating <subst>
+                        <del>syte</del>
+                        <add>system</add>
+                    </subst> (compulsory in <placeName>Switzerland</placeName>), which can also be turned into a cooling
+               one; ventilation in roof; and far better suspension - the road here is worse than
+               ever! - and steers more easily. It was the only one left in <placeName>Switzerland</placeName>. (Thanks to
+               <persName ref="#JepsonSelwin">Selwyn</persName>).</p>
+                <p rendition="#red #handwritten">Running in on <date when="1959-05-07">Ascension Day</date>,
+                    after a fabulous night with <persName>Harry</persName> and <persName>Nicki</persName> on the <placeName>Vercors</placeName> in their farmhouse, we
+               kept at about 60-70 k.p.h on the Narbonne road. Little French cars shot by us, and
+               near <placeName>Montelimar</placeName>, from which we send you some nougat, </p>
+            </note>
+        </body>
+    </text>
+</TEI>

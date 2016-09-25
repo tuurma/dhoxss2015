@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title Letter11</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>ST JOHN'S COLLEGE LIBRARY COLLECTION OWNED LETTERS FROM ROBERT (1895-1985) AND BERYL
+               (1915- ) GRAVES TO WILLIAM GRAVES (1940- )</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sending">
+                    <persName ref="#GravesRobert">Robert Graves</persName>
+                    <settlement ref="#Canellun"><placeName>Canellun, Deya, Mallorca, Spain</placeName></settlement>
+                    <date when="1959-12-01">December 1 1959</date>
+                </correspAction>
+                <correspAction type="receiving">
+                    <persName ref="#GravesWilliam">William Graves</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="WG.59.12.01.jpg"/>
+            <opener>
+                <placeName ref="#Canellun">Canellun</placeName>
+                <date when="1959-12-01">1st Dec, 1959</date>
+                <salute>Dearest <persName ref="#GravesWilliam">
+                        <abbr>Wm</abbr>
+                    </persName>: </salute>
+            </opener>
+            <p>Season of colds and coughs; I've had mine, <rs ref="#GravesBeryl">Mother</rs> is still wrestling with hers, Tomás
+            can't make up his mind. The barometer dropped to nearly zero and o the storm and
+            rain!</p>
+            <p>Meanwhile we had the four little <persName>Weedons</persName> in the house until <persName>Tom</persName> died <date>last Monday</date>,
+            painlessly after a long coma. Everyone behaved beautifully: <persName>Rovira</persName> persuaded the priest
+            to allow him burial in a Catholic cemetery &amp; the whole village went up to view the
+            difunto &amp; bring flowers &amp; escort him with candles to the cemetery a 1/2 of an
+            hour away, where the Lord's prayer was said, &amp; all walked away silently.</p>
+            <p>The only awful character was <persName>Polimani</persName> who refused to enter the house, and only sent a
+            bill for 16 pesetas for 2 kilos of oranges; afterwards complained that the heater
+            borrowed by <persName>Veronica</persName> for <persName>Tom</persName> was broken and must be repaired at her expense - but it was
+            only his plug that was wrong!</p>
+            <p>Somebody offered to sell his grandmother's grave and dispose of her elsewhere, but <persName>V.</persName>
+            didn't like the headstone, so is making other arrangements.</p>
+            <p> The child who felt the death worst was <persName>Fiona</persName> the youngest. Now they have all gone back
+            but <persName>V.</persName> is worn to a rag by a fortnight of almost no sleep. We are buying them a poodle
+            puppy to restore morale.</p>
+            <p>"Apparently" had two ps; I do wish you had learned to read English before Spanish - our
+            fault!</p>
+            <closer>Love; <persName resp="#GravesRobert">Father</persName>
+            </closer>
+            <note><persName>Ava</persName> sent me a pink tie from Rome hoping it found me in the pink! </note>
+            <postscript>
+                <p>I'll try to get the <persName>Valldemosa</persName>'s address on my way to <placeName ref="#Palma">Palma</placeName> tomorrow, if we survive
+               until then, and enclose it. These dates are more or less: come to <placeName ref="#London">London</placeName> about the
+               8th or 9th &amp; <persName>R.</persName> goes to <placeName ref="#NewYork">N.Y.</placeName> <date>15th</date> &amp; <persName>T</persName> &amp; 
+                    I stay on until he returns <date>Feb 1st</date> about.</p>
+                <closer>
+                    <salute>Lots of love, <persName resp="#GravesBeryl">Mother</persName>.</salute>
+                </closer>
+            </postscript>
+            <postscript>
+                <p>P.S. Enclosed is the address - they left here on <date>Sunday</date>. </p>
+            </postscript>
+        </body>
+    </text>
+</TEI>

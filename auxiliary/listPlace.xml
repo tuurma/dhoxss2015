@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPlace xmlns="http://www.tei-c.org/ns/1.0">
+    <place xml:id="Deia">
+        <placeName>Deya</placeName>
+        <placeName>Deià</placeName>
+        <location>
+            <geo>39.7484 2.64918</geo>
+        </location>
+        <location type="geopolitical">
+            <settlement>Deya</settlement>
+            <region>Majorca</region>
+            <region>Balearic Islands</region>
+            <country>Spain</country>
+        </location>
+        <note>Deià is a small coastal village in the Serra de Tramuntana, which forms the northern
+      ridge of the Spanish island of Mallorca. It is located about ten miles north of
+      Valldemossa, and it is known for its literary and musical residents. Its idyllic landscape,
+      orange and olive groves on steep cliffs overlooking the Mediterranean, served as a draw for
+      German, English, and American expatriates after the First World War.</note>
+    </place>
+    <place xml:id="Canellun">
+        <placeName>Canellun</placeName>
+        <location>
+            <geo>39.7484 2.64918</geo>
+        </location>
+        <location type="geopolitical">
+            <settlement>Deya</settlement>
+            <region>Majorca</region>
+            <region>Balearic Islands</region>
+            <country>Spain</country>
+        </location>
+        <note>Graves' house in Deia</note>
+    </place>
+    <place xml:id="CanFloque">
+        <placeName>Can Floque</placeName>
+        <location>
+            <geo>39.7484 2.64918</geo>
+        </location>
+        <location type="geopolitical">
+            <settlement>Deya</settlement>
+            <region>Majorca</region>
+            <region>Balearic Islands</region>
+            <country>Spain</country>
+        </location>
+        <note>Graves' boat house in Deia</note>
+    </place>
+    <place xml:id="Austria">
+        <placeName>Austria</placeName>
+        <location>
+            <geo>47.516231 14.550072</geo>
+        </location>
+        <location type="geopolitical">
+            <country>Austria</country>
+        </location>
+    </place>
+    <place xml:id="Yugoslavia">
+        <placeName>Yugoslavia</placeName>
+        <location type="geopolitical">
+            <country notAfter="1991">Yugoslavia</country>
+        </location>
+    </place>
+    <place xml:id="Baleares">
+        <placeName>Balearic Islands</placeName>
+        <location>
+            <geo>39.534179 2.85771</geo>
+        </location>
+        <location>
+            <region>Balearic Islands</region>
+            <country>Spain</country>
+        </location>
+    </place>
+    <place xml:id="Barcelona">
+        <placeName>Barcelona</placeName>
+        <location>
+            <geo>41.385064 2.173403</geo>
+        </location>
+        <location type="geopolitica">
+            <settlement>Barcelona</settlement>
+            <region>Catalonia</region>
+            <country>Spain</country>
+        </location>
+    </place>
+    <place xml:id="Palma">
+        <placeName>Palma</placeName>
+        <placeName xml:lang="en">Palma, Majorca</placeName>
+        <placeName xml:lang="sp">Palma de Mallorca</placeName>
+        <location>
+            <geo>39.569600 2.650160</geo>
+        </location>
+        <location type="geopolitic">
+            <settlement>Palma</settlement>
+            <region>Majorca</region>
+            <region>Balearic Islands</region>
+            <country>Spain</country>
+        </location>
+    </place>
+    <place xml:id="Rome">
+        <placeName>Rome</placeName>
+        <location>
+            <geo>41.902783 12.496366</geo>
+        </location>
+        <location type="geopolitical">
+            <settlement>Rome</settlement>
+            <country>Italy</country>
+        </location>
+    </place>
+    <place xml:id="France">
+        <placeName>France</placeName>
+        <location>
+            <geo>46.227638 2.213749</geo>
+        </location>
+        <location type="geopolitical">
+            <country>France</country>
+        </location>
+    </place>
+    <place xml:id="London">
+        <placeName>London</placeName>
+        <location>
+            <geo>51.507351 -0.127758</geo>
+        </location>
+        <location type="geopolitica">
+            <settlement>London</settlement>
+            <region>London</region>
+            <country>England</country>
+            <country>United Kingdom</country>
+        </location>
+    </place>
+    <place xml:id="Puigpunent">
+        <placeName>Puigpunent</placeName>
+        <location>
+            <geo>39.627202 2.528332</geo>
+        </location>
+        <location type="geopolitical">
+            <settlement>Puigpunent</settlement>
+            <region>Mallorca</region>
+            <region>Balearic Islands</region>
+            <country>Spain</country>
+        </location>
+    </place>
+    <place xml:id="BellRockHouse">
+        <placeName>Bell Rock House</placeName>
+        <location>
+            <geo>56.450487 -2.881644</geo>
+        </location>
+        <location type="geopolitical">
+            <region>Angus</region>
+            <country>Scotland</country>
+            <country>United Kingdom</country>
+        </location>
+        <settlement>St Andrews</settlement>
+        <settlement ref="#Fife">Fife</settlement>
+    </place>
+    <place xml:id="Fife">
+        <placeName>Fife</placeName>
+        <location>
+            <geo>56.208208 -3.149518</geo>
+        </location>
+        <location type="geopolitical">
+            <region>Fife</region>
+            <country>Scotland</country>
+            <country>United Kingdom</country>
+        </location>
+    </place>
+    <place xml:id="Soller">
+        <placeName>Soller</placeName>
+        <location>
+            <geo>39.767069 2.715787</geo>
+        </location>
+        <location type="geopolitica">
+            <settlement>Soller</settlement>
+            <region>Majorca</region>
+            <region>Balearic Islands</region>
+            <country>Spain</country>
+        </location>
+    </place>
+    <place xml:id="Switzerlands">
+        <placeName>Switzerland</placeName>
+        <location>
+            <geo>46.818188 8.227512</geo>
+        </location>
+        <location type="geopolitica">
+            <country>Switzerland</country>
+        </location>
+    </place>
+    <place xml:id="England">
+        <placeName>England</placeName>
+        <location>
+            <geo>52.355518 -1.174320</geo>
+        </location>
+        <location type="geopolitica">
+            <country>England</country>
+        </location>
+    </place>
+    <place xml:id="USA">
+        <placeName>United States of America</placeName>
+        <placeName full="abb">USA</placeName>
+        <location>
+            <geo>37.090240 -95.712891</geo>
+        </location>
+        <location>
+            <country>United States of America</country>
+        </location>
+    </place>
+    <place xml:id="Vercors">
+        <placeName>
+            <geogName>Vercors</geogName>
+            <geogFeat>Massif</geogFeat>
+        </placeName>
+        <location>
+            <geo>44.969985 5.419979</geo>
+        </location>
+        <location type="geopolitical">
+            <country>France</country>
+        </location>
+    </place>
+    <place xml:id="NarbonneRoad">
+        <placeName>Narbonne Road</placeName>
+        <placeName>Via Domitia</placeName>
+        <location>
+            <country>France</country>
+        </location>
+    </place>
+    <place xml:id="Montelimar">
+        <placeName>Montelimar</placeName>
+        <location>
+            <geo>44.556944 4.749496</geo>
+        </location>
+        <location>
+            <settlement>Montelimar</settlement>
+            <region>Rhône-Alpes</region>
+            <country>France</country>
+        </location>
+    </place>
+    <place xml:id="BrooklynBridge">
+        <placeName>Brooklyn Bridge</placeName>
+        <location>
+            <geo>40.7057 73.9964</geo>
+        </location>
+        <location>
+            <settlement type="city">New York</settlement>
+            <country>United States of America</country>
+        </location>
+    </place>
+    <place xml:id="Abilene">
+        <placeName>Abilene</placeName>
+        <country>Syria</country>
+        <note>An ancient city.</note>
+    </place>
+    <place xml:id="Abiline">
+        <placeName>Abiline</placeName>
+        <country>U.S.A.</country>
+        <location>
+            <geo>51.5033640 -0.1276250</geo>
+        </location>
+        <note>Abiline is a city in Texas.</note>
+    </place>
+    <place xml:id="Epidaurus">
+        <placeName>Epidaurus</placeName>
+        <location>
+            <geo>37.626573 23.132244</geo>
+        </location>
+    </place>
+    <place xml:id="Oxford">
+        <placeName>Oxford</placeName>
+        <location>
+            <geo>51.751944 -1.257778</geo>
+            <settlement>Oxford</settlement>
+            <region>Oxfordshire</region>
+            <country>United Kingdom</country>
+        </location>
+        <location type="geopolitical">
+            <settlement>Oxford</settlement>
+            <region>Oxfordshire</region>
+            <country>United Kingdom</country>
+        </location>
+    </place>
+    <place xml:id="Geneva">
+        <placeName>Geneva</placeName>
+        <country>Switzerland</country>
+        <location>
+            <geo>46.198392 6.142296</geo>
+        </location>
+    </place>
+    <place xml:id="BakerStreet">
+        <placeName>Baker Street</placeName>
+        <location>
+            <geo>51.520602 -0.156827</geo>
+        </location>
+        <location type="geopolitical">
+            <settlement>London</settlement>
+            <region>London</region>
+            <country>England</country>
+        </location>
+    </place>
+</listPlace>

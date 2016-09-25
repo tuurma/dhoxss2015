@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>ST JOHN'S COLLEGE LIBRARY COLLECTION OWNED LETTERS FROM ROBERT (1895-1985) AND BERYL
+               (1915- ) GRAVES TO WILLIAM GRAVES (1940- )</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sending">
+                    <persName ref="#GravesRobert">Robert Graves</persName>
+                    <settlement ref="#Canellun"><placeName>Canellun, Deià</placeName></settlement>
+                    <date when="1960-08-11">1960-08-11</date>
+                </correspAction>
+                <correspAction type="receiving">
+                    <persName ref="#GravesWilliam">William Graves</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="WG.60.08.11.a.jpg"/>
+            <opener>
+                <placeName ref="#Canellun">Canellun, Deya, Mallorca, Spain</placeName>
+                <salute>Dearest <persName ref="#GravesWilliam">
+                        <choice>
+                            <abbr>Wm</abbr>
+                            <expan>William</expan>
+                        </choice>
+                    </persName>,</salute>
+            </opener>
+            <p>Thanks very much for the longest letter by at least five pages you have ever written
+            home; I hate the thought of the alternative methods of death you have to choose on those
+            glaciers, but I know you have a bias in favour of life.</p>
+            <p> I hope you got money I sent you Poste Restante at <placeName>Linthal</placeName>.
+               <orgName ref="#LombardOdier">Lombard Odier</orgName> are prepared to send you up to £100
+            in Swiss francs whenever you call on them. In case you have lost their address at
+               <placeName>Corraterie 11, Geneva</placeName>.</p>
+            <p>
+                <placeName ref="#Deya">Deya</placeName> is more hectic than ever. We have only <persName ref="#GravesJuan">Juan</persName> &amp; 
+                <persName ref="#GravesTomas">Tomás</persName>
+            here, <persName ref="#Debbie">Debbie</persName> is with the Foggs at <persName>Emmi</persName>'s house(x),
+            Lucia is away in <placeName ref="#Palma">Palma</placeName> meeting the right sort of boy friend. </p>
+            <p>Our frigidaire came. We pulled down most of the larder to stick it in; where the broom
+            cupboard used to be. It went like a charm for two days but has seized up owing to
+            carbonized wicks from the stinking petroleo we get here. Just charring off the wick
+            evenly in the hope we can get it alight again. </p>
+            <p>Hot weather. Old Gardener. <persName>The Reeves</persName> all arrived, but no <persName>Antonia</persName> of the 
+            <placeName ref="Puigpunent">Puig</placeName> to look after them and no substitute. <persName>Caroleena</persName> had
+            an exploratory operation to see if she had cancer - fortunately not -<persName>Mary Reid</persName> borrowed
+            her house (being expelled from the Posada by the <persName>Reeves</persName>) &amp; gave a 1st birthday party
+            for <persName>Jasper</persName>. Everyone was there including two marvellous Israeli singers. In the middle
+            of the feast there was a sharp angry explosion from the table where I wasn't: <persName>Frank</persName>
+            insulting <persName>Esteban</persName> who wanted to kill him in consequence. Fortunately the <rs>Señora de
+            Canellun</rs> quickly tugged at <persName>Esteban</persName>'s sleeve and changed places with him, so parted the
+            two. A quarrel about Abstract Painting &amp; about that dim gipsy pansy <persName>Viola</persName> who was at
+            the party and who gives me &amp; <persName ref="#GravesBeryl">Beryl</persName> and <persName>Esteban</persName> the creeps, but to others is tops. </p>
+            <p><persName ref="LomaxAlan">Alan Lomax</persName> came of course the day after you left, with <persName>Shirley Collins</persName> who sings at the
+            <placeName>Troubadour</placeName> and remembers you; it was terrific; &amp; <persName>Po</persName> &amp; <persName>Pedro</persName> sang <persName>Sa Ximbomba</persName>. We
+            also heard a tape of the play; unfortunately part of the record got super-impressed on
+            another part; but a lot survived including half of your superb talking blues &amp;
+            <persName>Lucia</persName>'s song about the Wetbacks and the Rio and Cropton House and all the bangs. The
+            night you left, <persName>Margot</persName> said she wanted to get out of <placeName>Can Quet</placeName>, so we asked <persName>Ricardo</persName> to
+            lend her <placeName>Sa Guarda</placeName>, which he did. Apparently he had also lent it to <persName>Kitty</persName>, who arrives
+            tonight. Fortunately <persName>Margot</persName> &amp; <persName>Kitty</persName> are close friends, so there'll be no lio </p>
+            <p><persName>Tom Sanders</persName> got a sudden phosphorous flame from a match &amp;amp; thought he had won
+            25,000 pesetas; but alas it was only a 25 peseta prize (red <pb facs="WG.60.08.11.b.jpg"/>flame instead of green). <persName>Alastair</persName> and I really think that
+            the <title>White Goddess</title> film is coming off. We saw the Mati film which had some terrific
+            moments; <persName>Brad</persName> was remarkable as a cad-comedian; <persName>Kate</persName> enchanting, and <persName>Margot</persName> even better
+            when photographed than in three dimensions. <persName ref="#GravesBeryl">Beryl</persName> says she ought to star as the <title>White
+            Goddess</title>; but that will be hard to force on <persName ref="#MorrisWilliam">William Morris</persName>, who may want some ghastly
+            <persName ref="LorenSofia">Sofia Loren</persName> or someone. The melons are ripe and yellow and taste like heaven. The sea is
+            calm. We have no more water troubles. Tomorrow I shall go into <placeName>Palma</placeName> &amp; get the
+            address you need.</p>
+            <closer>
+                <salute>Love from</salute>
+                <signed><persName>Father</persName> &amp; all</signed>
+            </closer>
+            <note place="margin">Can Cabello, Deya; or C/o us.</note>
+            <note resp="#GravesBeryl" rendition="#red">Forgets you were there! love <persName ref="#GravesBeryl">Mother</persName>
+            </note>
+            <note>William spent six weeks in the Alps doing geological field mapping as part of the
+            geology course. The Play (an annual event on RG's birthday) that year was “Lawrence and
+            the Wetbacks”. William had sung a “talking blues” in it. Mati's film had a weak story
+            line but shows various of the Deya characters at the time including, RG, Margot, Bill
+            Waldren.</note>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?><?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter #7 from Robert Graves to William Graves <date>October 24, 1958</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Digital Humanities at Oxford Summer School</publisher>
+                <pubPlace>Oxford</pubPlace>
+                <date when="2015-07">July 2015</date>
+                <availability>
+                    <include xmlns="http://www.w3.org/2001/XInclude" href="../auxiliary/licence.xml"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Letters from Robert and Beryl Graves to William Graves 1957-1967. 41 ALS and TLS,
+                    56pp. , St John’s College (Oxford) Library, Special Collections (Holmes 4) , Box
+                    4 Gp17 </p>
+                <p>ST JOHN'S COLLEGE LIBRARY COLLECTION OWNED LETTERS FROM ROBERT (1895-1985) &amp;
+                    BERYL (1915-2003) GRAVES TO WILLIAM GRAVES (1940- ) </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sending">
+                    <persName ref="#GravesRobert">Robert Graves</persName>
+                    <settlement ref="#Deia">Deya</settlement>
+                    <date when="1958-10-24">October 24, 1958</date>
+                </correspAction>
+                <correspAction type="receiving">
+                    <persName ref="#GravesWilliam">William Graves</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="WG.58.10.24.jpg"/>
+            <div type="letter">
+                <opener>
+                    <dateline> -<settlement ref="#Deia">Deya</settlement>, <date when="1958-10-24">Oct 24th 1958</date>-</dateline>
+                    <salute>Dear <persName ref="#GravesWilliam">William</persName>: </salute>
+                </opener>
+                <p> I'm glad you managed to shift lodgings in good time: these occasions require
+                    tact, &amp; the sooner the better! </p>
+                <p> There is the third thunder<del>torme</del>
+                    <add>storm</add> in four days now in progress; 11 a.m. Everything wet &amp;
+                    grey, &amp; <rs ref="#GravesBeryl">Mother</rs> is poised over the AGa, which
+                    makes the most wonderful sausage rolls in Christendom — Jews &amp; Moslems of
+                    course aren't allowed to compete.</p>
+                <p>
+                    <persName ref="#ReidAlastair">Alastair</persName> and <persName>Mary</persName>
+                    went off yesterday to <placeName ref="#Gibralter">Gibraltar</placeName> to catch
+                    the <emph>Don Quijote del Mar </emph>&amp; will write to us from the
+                        <del>Azo</del>
+                    <gap reason="blot"/>
+                    <placeName ref="#CanaryIslands">Canaries</placeName> &amp; <placeName ref="#Antigua">Antigua</placeName>. We have been teasing them about their
+                    lack of fresh vegetables and fruit <add>and steaks</add> in the 40 days between
+                    the two islands.</p>
+                <p> There is no such word as <sic>imposible</sic> (except in Spanish <del>**</del>
+                    <add>which</add> leaves out the first s.) <persName>Alan</persName>'s novel is
+                    terrifically good and having deservedly <del>**good</del> long reviews; I'm
+                    trying to make <orgName>Doubleday</orgName> publish it in <placeName>New
+                        York</placeName>.</p>
+                <p> Nice farewell lunch at the <emph>Triton</emph> to <persName ref="#ReidAlastair">Alastair</persName> &amp; <persName>Mary</persName>; wish you had been
+                    there to compete among the gambas &amp; <foreign xml:lang="spa">paella</foreign>.</p>
+                <p> I have sent my <title>Minorca</title> piece to <emph>Holiday</emph>. If they
+                    take it you can buy yourself a box of cigars at my expense. Meanwhile try
+                    smoking small Jamaican cigars, and only after a meal. Better for health than
+                    cigarettes or pipe.</p>
+                <p> The Broadway producer did not turn up. May have been because my U.S. agent gave
+                    him the <orgName>Guillermo Massot </orgName>phone number like a bloody fool,
+                    &amp; he rang ineffectually day after day. I don't know.</p>
+                <p> Four more books of the <title>Iliad</title> only.</p>
+                <p> We had all those hide-&amp;-seek bushes behind the oleanders removed; it leaves
+                    a lot of space for more fruitbushes.</p>
+                <p>
+                    <persName>Patrick</persName> got out news of Pope's death one minute before
+                    nearest British rival, and 10 minutes before the Americans.</p>
+                <p>
+                    <rs ref="GravesBeryl">Mother</rs> and I agree that you should break the winter
+                    with a ski holiday. If <persName>Jenny</persName> &amp;
+                        <persName>Patrick</persName> can't afford one themselves, you had better
+                    join some group. Its a pity you need ski-lifts because there is money in
+                        <placeName ref="#Yugoslavia">Yugland</placeName>; but perhaps another year.
+                    Anyhow you will have it. God what thunder! no more bathing this year, it seems. </p>
+                <closer>
+                    <salute>Love, </salute>
+                    <rs ref="#GravesRobert">Father</rs>
+                </closer>
+                <postscript>
+                    <p>
+                        <label>P.S.</label> Light switched off at <placeName ref="#CanMado">Can
+                            Madó</placeName> until thunderstorm passes. We go to <placeName ref="#Geneva">Geneva</placeName>
+                        <date when="1958-10-28">Tuesday</date>: air to <placeName ref="#Barcelona">Barcelona</placeName>, then night train.</p>
+                </postscript>
+            </div>
+        </body>
+    </text>
+</TEI>

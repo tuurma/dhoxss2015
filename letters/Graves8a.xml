@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter #8a from Robert Graves to William Graves <date when="1958-11-10">Nov 10th 1958</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Digital Humanities at Oxford Summer School</publisher>
+                <pubPlace>Oxford</pubPlace>
+                <date when="2015-07">July 2015</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Letters from Robert and Beryl Graves to William Graves 1957-1967. 41 ALS and TLS,
+                    56pp. , St John’s College (Oxford) Library, Special Collections (Holmes 4) , Box
+                    4 Gp17 </p>
+                <p>ST JOHN'S COLLEGE LIBRARY COLLECTION OWNED LETTERS FROM ROBERT (1895-1985) &amp;
+                    BERYL (1915-2003) GRAVES TO WILLIAM GRAVES (1940- ) </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sending">
+                    <persName ref="#GravesRobert">Robert Graves</persName>
+                    <settlement ref="#Deia">Deya</settlement>
+                    <date when="1958-11-10">Nov 10th 1958</date>
+                </correspAction>
+                <correspAction type="receiving">
+                    <persName ref="#GravesWilliam">William Graves</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>-<placeName ref="#Deia">Deya</placeName>, <date>Nov 10th 1958</date>-
+            <lb/>Dear <persName ref="#GravesWilliam">William</persName>, <persName ref="#ReidAlastair">Alastair</persName>'s address at his next port of call is: Don
+            <lb/>Quixote del Mar, C/O Commander Nicholson, English Harbour, Antigua, British 
+            <lb/>West Indies[*]. I don't know how long it will take him to get to <placeName ref="#NewYork">New York</placeName> 
+            <lb/>but you can get him in New York   C/O Jess McNab, 86 Horatio Street, N.Y.C.14</p>
+            <p>With any luck you should get your sobrasada soon as the Pickstones 
+            <lb/>know someone who is driving back to <placeName ref="#England">England</placeName> this week and I have given them 
+            <lb/>one to give him. If he takes it he will leave it with the Bevans's - people 
+            <lb/>we used to know in <placeName ref="#Barcelona">Barcelona</placeName> and met again soon after you left for <placeName ref="#London">London</placeName>. 
+            <lb/>He, Bernard Bevan is mentioned in the great mushroom book, and in 
+            <lb/>fact he was one of the first people to go to the Mexican tribe which 
+            <lb/>Wasson later wrote about. The joke was he didn't know that he was in the 
+            <lb/>book until he called on us at the very moment when we had that book on the 
+            <lb/>table and were showing it to <persName ref="#ReidAlastair">Alastair</persName>'s friend Alastair. Their address 
+            <lb/>is: 35, Elm Park Gardens, S.W.10. FLAX 4256. and this man who is taking the 
+            <lb/>sobrasada lives opposite them and will leave it with them - that is of 
+            <lb/>course, if the Pickstones find him to give it to him! I have put your 
+            <lb/>address on the packet so the <persName ref="#AneurinBevan">Bevan</persName>'s will probably get in touch with you if 
+            <lb/>etc.</p>
+            <p>Will see Pedro about the gloves today, and will post them as soon as. 
+            <lb/>Also the guitar things.</p>
+            <p>Juan has started his O level this month. <persName>Selby</persName> has left the school, 
+            <lb/>in fact he was asked not to return, and poor <persName>Abdullah</persName> has been expelled 
+            <lb/>as he found it impossible to conform to school rules and also give up 
+            <lb/>smoking[**]. By the way, did you ever get a pipe?</p>
+            <p>No more news, and I'm getting cold sitting here, typing!</p>
+            <p>Love from us all,</p>
+            <p>
+                <signatures>Mother</signatures>
+            </p>
+            <p>Margins:  Sorry to say I've just worked through your letters and can find 
+            <lb/>no mention of what you wanted for your guitar. Did I dream it or was it on 
+            <lb/>an envelope. Send a p.c. saying what &amp; I'll airmail it.</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-stylesheet type="text/xsl"
+            href="../resources/MJT/myletter.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter #8 from Robert Graves to William Graves <date>Nov 6, 1958</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Digital Humanities at Oxford Summer School</publisher>
+                <pubPlace>Oxford</pubPlace>
+                <date when="2015-07">July 2015</date>
+                <availability>
+                    <include xmlns="http://www.w3.org/2001/XInclude" href="../auxiliary/licence.xml"/>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Letters from Robert and Beryl Graves to William Graves 1957-1967. 41 ALS and TLS,
+                    56pp. , St John’s College (Oxford) Library, Special Collections (Holmes 4) , Box
+                    4 Gp17 </p>
+                <p>ST JOHN'S COLLEGE LIBRARY COLLECTION OWNED LETTERS FROM ROBERT (1895-1985) &amp;
+                    BERYL (1915-2003) GRAVES TO WILLIAM GRAVES (1940- ) </p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sending">
+                    <persName ref="#GravesRobert">Robert Graves</persName>
+                    <settlement ref="#Deia">Deya</settlement>
+                    <date when="1958-11-06">Nov 6, 1958</date>
+                </correspAction>
+                <correspAction type="receiving">
+                    <persName ref="#GravesWilliam">William Graves</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="WG.58.11.06.jpg"/>
+            <div>
+                <opener>
+                    <placeName ref="#Deia">Deya, Mallorca, Spain</placeName>
+                    <date>Nov 6, 1958</date>
+                    <salute>Dearest <persName ref="#GravesWilliam">William</persName>:</salute>
+                </opener>
+                <p>Back from <placeName ref="#Geneva">Geneva</placeName>, where we had a very good
+                    time with the <persName>Foggs</persName>, who have a nice suburban house, garden
+                    and poodle puppy. <emph rend="underlined">And</emph> car. They took us to see
+                    the snow; and to see an <emph rend="underlined">estriptiz</emph> show, where 35
+                    girls went through the same formula about as mechanically as most bullfighters
+                    fight their bulls....We brought back <del>lost</del> lots of food and warm
+                    clothes and pots and pans for the AGA; no trouble with the customs, because they
+                    had never seen a hula-hula hoop before and <persName>Diana</persName> showed
+                    them how. <del>Have</del>
+                    <add place="above">We have</add> built a coke shed, and I have at last a fire
+                    which doesn't smoke in my work room. Still very warm here.</p>
+                <p>Will go and raise stink about your gloves: yes, sir! My leather jacket is
+                    splendid.</p>
+                <p>Of course, the installing of oneself <emph rend="underlined">is</emph> expensive;
+                    so let us know how the <add place="margin">monthly</add> budget works out when
+                    you have all that is needed.. &amp; I'll not let you down...Meanwhile, you have
+                    enough solvency I hope. If not, let me know how much and I'll send.</p>
+                <p rend="rotate">No news about <emph rend="underlined">
+                        <title>Claudius</title>
+                    </emph> of late, but the Broadway musical seems a serious proposition &amp;
+                        <persName ref="#WattWilliam">Bill Watt</persName> is finding out more about
+                    it for me. Still 4 books of <emph rend="underlined">
+                        <title>Iliad</title>
+                    </emph> to complete.</p>
+                <p>
+                    <persName ref="#GravesJuan">Juan</persName> getting high marks in science: odd.
+                    But I'm glad he has something he likes.</p>
+                <closer>
+                    <salute>You<damage agent="holepuncher">
+                            <supplied>rs</supplied>
+                        </damage> with love</salute>
+                    <signed>
+                        <persName ref="#GravesRobert">Father</persName>
+                    </signed>
+                </closer>
+            </div>
+            <div>
+                <p>
+                    <handShift scribeRef="#GravesBeryl"/>So sorry not to have written for so long -
+                    sent you some cheese from <placeName ref="#Geneva">Geneva</placeName> which I
+                    hope will keep you going until I find a sobrasada-bearer. love, <persName ref="#GravesBeryl">Mother</persName>
+                </p>
+                <p>Have you seen the French magazine called <title>SONORAMA</title> which is made of
+                    records - comes out at 500fr for a month. Rather like a newsreel.</p>
+                <p>Yes, by all means get the anti-polio injections offered you. <persName ref="#GravesLucia">Lucia</persName> and 
+                    <persName ref="#GravesJuan">Juan</persName> are having them too. But you must be in good health at the
+                    time!</p>
+            </div>
+        </body>
+    </text>
+</TEI>

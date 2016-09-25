@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPerson xmlns="http://www.tei-c.org/ns/1.0">
+    <person xml:id="GravesWilliam">
+        <persName>
+            <forename>William</forename>
+            <surname>Graves</surname>
+        </persName>
+        <birth when="1940-07">July 1940</birth>
+        <sex value="M">male</sex>
+        <note>Robert Graves' eldest son by Beryl
+            William Graves (282) was born on July 1940. Geologist. 
+            Literary Executor of the Robert Graves Estate, Setlor of the Robert Graves Copyright Trust and the St John’s College Robert Graves Trust; 
+            founder member of the Fundacio Robert Graves in Mallorca which owns Robert Graves’s house. Author of Wild Olives. In 1965, he married Elena Lambea b. July 1941.
+        </note>
+    </person>
+    <person xml:id="GravesRobert">
+        <persName>Robert Graves</persName><!-- to be completed by the students -->
+        <birth when="1895-07-24">Wimbledon, 24 July 1940</birth>
+        <death when="1985-12-07">Deya, Majorca, 7 December 1985</death>
+        <sex value="M">male</sex>
+        <note>Robert von Ranke Graves (248) was born 24 July 1895 in Wimbledon, London, England, and died 7 Dec. 1985 in Deya, Majorca. 
+            He was Capt. RWF and a renowned poet, novelist, mythographer, critic and historian.
+            Probably best known as the author of <title>I,Claudius</title>, and <title>Claudius the God</title> and as a survivor and
+            poet of the Great War, he is one of the great figures of 20th Century English Poetry.
+            He first married Annie Mary Prydie ("Nancy") Nicholson, daughter of William Nicholson, the artist, on 23 Jan. 1918 in St. James, Piccadilly.  
+            She was born 13 Sept. 1899 and died in 1977. Nancy refused to change her name on marriage and insisted the girls born of the union keep her surname. 
+            He then married Beryl née  Prichard, (divorced from  Hodge and who changed her name by deed-pole to Graves on 25 June 1943), on 12 May 1950, at the British Consulate in Palma. 
+            She was born 22 Feb 1915 and died 27 October 2003.</note>
+    </person>
+    <person xml:id="GravesBeryl">
+        <persName>
+            <forename>Beryl</forename>
+            <surname>Pritchard</surname>
+            <surname type="married">Hodge</surname>
+            <surname type="married">Graves</surname>
+        </persName>
+        <idno type="VIAF">22304002</idno>
+        <idno type="LC-Name-Authority-File">nr96004407</idno>
+        <birth when="1915-02-22">
+            <placeName ref="#London">London</placeName>, 22 February
+            1915</birth>
+        <death when="2003-10-27">
+            <placeName ref="#Palma">Palma</placeName>, 27 October
+            2003</death>
+        <sex value="F">female</sex>
+        <note>Robert Graves's second wife. PPE at St Anne's College, Oxford. Married Alan Hodge 1938.
+            Changed her name by deed poll from Hodge to Graves in June 1943. Married Robert Graves on 12 May 1950, at the British Consulate in Palma,
+            after his divorce from Nancy Nicholson earlier that year.</note>
+    </person>
+    <person xml:id="GoldschmidtKarl">
+        <persName>
+            <forename>Karl</forename>
+            <surname>Goldschmidt</surname>
+            <addName>
+                <forename type="first">Kenneth</forename>
+                <forename type="middle">Charles</forename>
+                <surname>Gay</surname>
+            </addName>
+        </persName>
+        <birth when="1912-02-12">
+            <placeName>Elbefeld</placeName>12 February 1912</birth>
+        <death when="1995-03-26">
+            <placeName ref="#Palma">Palma</placeName>26 March
+            1995</death>
+        <sex value="M">male</sex>
+        <occupation>Secretary, friend and collaborator of <persName ref="#GravesRobert">Robert Graves</persName>
+        </occupation>
+        <occupation from="1965" to="1978">Librarian at University Libraries of the State
+            University of New York at Buffalo</occupation>
+        <occupation from="1968" to="1978">Curator of the Poetry Collection at University
+            Libraries of the State University of New York at Buffalo</occupation>
+        <note>He was born Karl Goldschmidt in Germany, in 1912. He trained as a graphic artist
+            but left his native country in 1933 on Hitler's rise to power. 
+            1934 found him in Dey, Majorca, where the poets Robert Graves and Laura Riding
+            befriended the intelligent young man. He learnt English (reading Defoe) and was
+            soon helping with their Seizin Press and their typing, and wrote amusingly in Focus, their magazine.
+            At the outbreak of the Spanish Civil War in 1936, all three left Majorca on a Royal Navy destroyer.
+            Graves persuaded the ship's captain not to transfer Goldschmidt to a German ship, and back to Germany,
+            conscious of the fate that would, as a Jew, await him.
+            In England Goldschmidt obtained leave to stay and work and, when the Second World War broke out,
+            he gallantly served first in the Pioneer Corps, and later in the Royal Navy.
+            In the Pioneers - as a protection in case of capture - he had been made to change his name.
+            He became known (though he was always called Karl by his friends) as Kenneth Gay.
+            When the war was over, he was granted full British citizenship.</note>
+    </person>
+    <person xml:id="ReidAlastair">
+        <persName>
+            <forename>Alastair</forename>
+            <surname>Reid</surname>
+        </persName>
+        <idno type="VIAF">15102127</idno>
+        <idno type="LC-Name-Authority-File">n79085083</idno>
+        <birth when="1926-03-22">
+            <placeName>Whithorn</placeName>, 22 march 1926</birth>
+        <death when="2014-09-21">
+            <placeName>Manhattan</placeName>, 21 September
+            2014</death>
+        <sex value="M">male</sex>
+        <occupation>Writer</occupation>
+        <note>Scottish poet, writer, translator. On staff of "The New Yorker". Graves's friend and
+            confidant. Quarelled in 1961.</note>
+    </person>
+    <person xml:id="JepsonSelwin">
+        <persName>
+            <forename>Selwyn</forename>
+            <surname>Jepson</surname>
+        </persName>
+        <idno type="VIAF">118242376</idno>
+        <idno type="LC-Name-Authority-File">n89633547</idno>
+        <birth when="1899">1899</birth>
+        <death when="1989">1989</death>
+        <sex value="M">male</sex>
+        <occupation>Writer</occupation>
+    </person>
+    <person xml:id="GravesTomas">
+        <persName>
+            <forename>Tomás</forename>
+            <surname>Graves</surname>
+        </persName>
+        <idno type="VIAF">60874780</idno>
+        <idno type="LC-Name-Authority-File">n99034882</idno>
+        <birth when="1953-01-27">
+            <placeName ref="#Palma">Palma</placeName>, 27 January 1953</birth>
+        <sex value="M">male</sex>
+        <occupation>Writer and musician</occupation>
+        <note>Robert Graves' third son by Beryl</note>
+    </person>
+    <person xml:id="NicholsonNancy">
+        <persName>Nancy Nicholson</persName>
+        <sex value="F">female</sex>
+        <note>Robert Graves' first wife</note>
+    </person>
+    <person xml:id="NicholsonJenny">
+        <persName>Jenny Nicholson</persName>
+        <sex value="F">female</sex>
+        <note>Robert Graves' eldest daughter by Nancy</note>
+    </person>
+    <person xml:id="NicholsonCatherine">
+        <persName>Catherine Nicholson</persName>
+        <sex value="F">female</sex>
+        <note>Robert Graves' second daughter by Nancy</note>
+    </person>
+    <person xml:id="GravesLucia">
+        <persName>Lucia Graves</persName>
+        <sex value="F">female</sex>
+        <note>Robert Graves' first daughter by Beryl</note>
+    </person>
+    <person xml:id="GravesJuan">
+        <persName>Juan Graves</persName>
+        <note>Robert Graves' second son by Beryl</note>
+    </person>
+    <person xml:id="BevanAneurin">
+        <persName>Aneurin Bevan</persName>
+        <note>Labour politician</note>
+    </person>
+    <person xml:id="Castor">
+        <persName>Castor</persName>
+    </person>
+    <person xml:id="Ann">
+        <persName>Ann</persName>
+        <sex value="F">female</sex>
+    </person>
+    <person xml:id="Emilia">
+        <persName>Emilia</persName>
+        <sex value="F">female</sex>
+    </person>
+    <person xml:id="Jaime">
+        <persName>Jaime</persName>
+    </person>
+    <person xml:id="PomeroyMarnie">
+        <persName>Marnie Pomeroy</persName>
+        <sex value="F">female</sex>
+        <note>Canadian author, poet, publisher and teacher. Among other books, she is the author of
+            <title>Emily Dickinson</title> in the Greenwich Exchange Student Guide Literary Series. She was in
+            Mallorca in 1956 -1958 and a close friend of the Graves's.</note>
+    </person>
+    <person xml:id="PritchardEnid">
+        <persName>Enid Pritchard</persName>
+        <sex value="F">female</sex>
+        <note>English solicitor, who helped draw up Robert Graves's Will. Beryl Graves's sister.</note>
+    </person>
+    <person xml:id="Claudius">
+        <persName>
+            <forename>Tiberius</forename>
+            <surname>Claudius</surname>
+            <addName>Caesar Augustus Germanicus</addName>
+        </persName>
+        <birth when="-0010-08-01">
+            <placeName ref="#Lyon">Lugdunum</placeName>
+            1 August 10 BC</birth>
+        <death when="0054-10-13">
+            <placeName ref="#Rome">Rome</placeName>13 October AD 54</death>
+        <sex value="M">male</sex>
+        <note> Claudius was emperor of Rome from AD 41-54. He married four times, and was succeeded by the emperor Nero. </note>
+    </person>
+    <person xml:id="CallasMargot">
+        <persName>
+            <forename>Margot</forename>
+            <surname>Callas</surname>
+        </persName>
+        <sex value="F">female</sex>
+    </person>
+    <person xml:id="WattWilliam">
+        <persName>
+            <forename>William</forename>
+            <surname>Watt</surname>
+        </persName>
+        <note>Son and partner of A.S.Watt, Director of A.P.Watt &amp; Son, in 1940s
+            (British Literary agency that represented Robert Graves as from the late
+            1930's).</note>
+    </person>
+    <person xml:id="CrotonAntonia">
+        <persName>
+            <forename>Antonia</forename>
+            <surname type="birth">Dalton</surname>
+            <surname type="married">Croton</surname>
+        </persName>
+        <birth when="1945">
+            1945
+        </birth>
+        <sex value="F">Female</sex>
+        <note>Graves's granddaughter (Catherine Nicholson's daughter)</note>
+    </person>
+    <person xml:id="CameronIsla">
+        <persName>
+            <forename>Isla</forename>
+            <surname>Cameron</surname>
+        </persName>
+        <birth when="1930-03-05">
+            <placeName>Scotland</placeName>March 5 1930</birth>
+        <death when="1980-05">May 1980</death>
+        <sex value="F">female</sex>
+        <occupation>Actress and Folk Singer</occupation>
+        <note>Scottish actress and folk singer. Came to Deya in the early 1960s with Maggie Smith.</note>
+    </person>
+    <person xml:id="PortagaEleni">
+        <persName>
+            <forename>Eleni</forename>
+            <surname>Portaga Stratu</surname>
+        </persName>
+        <sex value="F">female</sex>
+        <occupation>Greek Sculpturess</occupation>
+    </person>
+    <person xml:id="ScottRonnie">
+        <persName>
+            <forename>Ronnie</forename>
+            <surname>Scott</surname>
+        </persName>
+        <birth when="1927-01-28">28th January 1927</birth>
+        <death when="1966-12-23">23rd December 1966</death>
+        <sex value="M">male</sex>
+        <occupation>Jazz saxophonist</occupation>
+    </person>
+</listPerson>
